@@ -1,10 +1,11 @@
 {
   "name": "atom-ci-snippets",
   "main": "./lib/atom-ci-snippets",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Atom Codeigniter snippets",
   "keywords": [
-    "Codeigniter", "ci"
+    "Codeigniter",
+    "ci"
   ],
   "repository": "https://github.com/taiar/atom-ci-snippets",
   "license": "The Unlicense",
