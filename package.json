@@ -1,7 +1,7 @@
 {
   "name": "atom-ci-snippets",
   "main": "./lib/atom-ci-snippets",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Atom Codeigniter snippets",
   "keywords": [
     "Codeigniter",
